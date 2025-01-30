@@ -18,7 +18,7 @@ pip install selenium wget
 
 1. **Clone le dépôt** sur ton ordinateur :  
 ```bash
-git clone https://github.com/ton-utilisateur/instagram-scraper.git
+git clone https://github.com/Fatimazohrajellali/instagram-scraper.git
 cd instagram-scraper
 ```
 2. **Ajoute ton `chromedriver.exe`** dans le projet.  
